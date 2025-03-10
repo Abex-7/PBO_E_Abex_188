@@ -2,7 +2,7 @@ package Tugas.Tugas_PBO;
 
 import java.util.Scanner;
 
-public class Tugas_modul_1 {
+public class Modul_1 {
     public static void main(String[] args) {
         Scanner objinput = new Scanner(System.in);
         int Pilihan;
