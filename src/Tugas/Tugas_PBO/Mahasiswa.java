@@ -1,4 +1,6 @@
-public class Mahasiswa extends User{
+package Tugas.Tugas_PBO;
+
+public class Mahasiswa extends User {
     // Constructor menggunakan supe
 
     public Mahasiswa(String nama, String nim) {

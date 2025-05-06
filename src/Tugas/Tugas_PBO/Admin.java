@@ -1,9 +1,11 @@
-public class Admin extends User{
+package Tugas.Tugas_PBO;
+
+public class Admin extends User {
     private final String username;
     private final String password;
 
     public Admin(String nama, String nim, String username, String password) {
-        super(nama,nim);
+        super(nama, nim);
         this.username = username;
         this.password = password;
     }
