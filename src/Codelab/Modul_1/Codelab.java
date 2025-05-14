@@ -1,3 +1,5 @@
+package Codelab.Modul_1;
+
 import java.util.Scanner;
 import java.time.LocalDate;
 
